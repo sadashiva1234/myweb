@@ -13,10 +13,8 @@
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://3.113.1.234:9000/</sonar.host.url>
 
-	</properties>
-	<dependencies> -->
-
-		
+	</properties> -->
+	<dependencies> 
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
