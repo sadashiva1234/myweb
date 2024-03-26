@@ -46,7 +46,7 @@
 	<id>nexus</id>
 	<url>http://3.108.236.162:8081/repository/myweb-release/</url>
 	</repository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	<properties>
    		<maven.compiler.source>7</maven.compiler.source>
    		<maven.compiler.target>1.7</maven.compiler.target>
