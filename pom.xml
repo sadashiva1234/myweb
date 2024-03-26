@@ -33,6 +33,12 @@
 		    <url>http://13.114.209.41:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement> -->
+	<plugin>
+           <groupId>org.apache.maven.plugins</groupId>
+           <artifactId>maven-war-plugin</artifactId>
+           <version>2.1.1</version>
+        </plugin>
+
 	<pluginRepositories>
 	    <pluginRepository>    
 		<id>maven1</id>
