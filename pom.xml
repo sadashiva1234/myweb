@@ -7,10 +7,6 @@
 	<version>8.2.0</version>
 	<name>Java Home myweb</name>
 	<url>http://maven.apache.org</url>
-	
-	<!--
-		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://3.113.1.234:9000/</sonar.host.url> -->
 	<properties>
                 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <maven.compiler.source>1.7</maven.compiler.source>
@@ -37,7 +33,6 @@
 		    <url>http://13.114.209.41:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement> -->
-	
 	<pluginRepositories>
 	    <pluginRepository>    
 		<id>maven1</id>
@@ -45,6 +40,4 @@
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
-
-	
 </project>
